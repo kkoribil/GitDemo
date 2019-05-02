@@ -6,13 +6,7 @@ public class RESTAPI
 
 
 {
-  @Test
-  public void jira()
-  
-  {
-	  System.out.println("jira");
-  }
-  
+ 
   @Test
   public void deleteTwitter()
   {
